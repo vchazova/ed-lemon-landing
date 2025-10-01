@@ -10,7 +10,8 @@ In this project, I took a non-responsive template and created my own responsive 
 - Used modern CSS techniques (Flexbox, Grid)
 - Preserved the visual style of the original template
 
-**Original template:** [Figma Lemon](https://www.figma.com/design/3FTKVOAbtrMgJvBvZGPSP1/Lemon?node-id=0-1&p=f)  
-**My result:** [See Demo](https://vchazova.github.io/ed-lemon-landing/)
+**Original template:** [Figma Lemon](https://www.figma.com/design/3FTKVOAbtrMgJvBvZGPSP1/Lemon?node-id=0-1&p=f)
+
+[Live Demo](https://vchazova.github.io/ed-lemon-landing/)
 
 **Project goal:** Practice responsive design and improve HTML & CSS skills without frameworks.
